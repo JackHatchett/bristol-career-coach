@@ -27,5 +27,5 @@ use for a job application cover letter. Include:
 Format as plain numbered sections, 3-5 sentences each. Plain text only.
 ```
 
-`src/skills/jd-evaluation/SKILL.md` and `src/skills/cover-letter/SKILL.md` own the
+The `jd-evaluation` and `cover-letter` skills own the
 web-research policy this stands in for.

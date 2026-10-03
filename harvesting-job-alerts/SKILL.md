@@ -2,7 +2,7 @@
 name: harvesting-job-alerts
 description: Turns job-alert email into a feed of postings and fetches each posting's full text, by the cheapest route that reaches its host, on a daily schedule. Use when setting up or fixing the job-alert harvest, when a posting's text has to be fetched, or when reading what the harvest produced.
 license: MIT
-compatibility: Runs inside a Bristol installation on the user's own machine; needs python3, the packages in this add-on's requirements.txt, `playwright install chromium`, and Gmail API credentials in the keychain.
+compatibility: Runs inside a Bristol installation on the user's own machine; needs python3, the packages in this skill's requirements.txt, `playwright install chromium`, and Gmail API credentials in the keychain.
 metadata:
   bristol.kind: tool
   bristol.maintainer: career_coach

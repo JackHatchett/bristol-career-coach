@@ -1,6 +1,4 @@
-# The job-alert harvest (skills/harvesting-job-alerts) and nothing else.
-# Every other skill here runs on Bristol's own requirements.
-#
+# The job-alert harvest and nothing else. Every other skill runs on Bristol's own requirements.
 #   pip install -r requirements.txt
 #   playwright install chromium
 requests
