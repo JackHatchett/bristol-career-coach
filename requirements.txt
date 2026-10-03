@@ -1,0 +1,12 @@
+# The job-alert harvest (skills/harvesting-job-alerts) and nothing else.
+# Every other skill here runs on Bristol's own requirements.
+#
+#   pip install -r requirements.txt
+#   playwright install chromium
+requests
+playwright
+keyring
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
